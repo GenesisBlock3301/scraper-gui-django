@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GUI</title>
+    <link rel="stylesheet" href="{% static 'custom.css' %}">
+</head>
+<body>
+<div class="wrapper">
+    <div class="left-side">
+        <form method="post">
+            {% csrf_token %}
+            <label for="">Search URL:</label>
+            {{ form.as_p }}<br>
+            <input class="button" type="submit" value="submit">
+        </form>
+    </div>
+    <div class="right-side">
+        <div class="upper">
+            <input class="button" type="submit" value="RUN">
+        </div>
+        <div class="bottom">
+            <h3>Message:</h3>
+            <ul>
+{#                li#}
+            </ul>
+        </div>
+    </div>
+</div>
+<script>
+    fetch('http://127.0.0.1:8000/scraper/counter/')
+        .then(response => response.json())
+        .then(data => {
+
+            {#console.log(ul)#}
+            {#console.log(data['facebook'])#}
+            {#console.log(data)#}
+            for (x in data) {
+                {#console.log(x,data[x])#}
+                data[x].map(item=>{
+                    console.log(x,item);
+                    ul = document.querySelector('ul');
+                    const li = document.createElement('li');
+                    li.textContent=`${x}: ${item}`;
+                    ul.appendChild(li)
+                })
+            }
+    })
+    ;
+    document.getElementsByClassName('button').addEventListener("click",function () {
+
+    })
+</script>
+</body>
+</html>
