@@ -10,57 +10,18 @@
     </style>
 </head>
 <body>
-<div class="wrapper">
-    <div class="left-side" style="border: none;margin-top: 12%;margin-left: 105em">
-        <form method="post">
-            {% csrf_token %}
-            {{ form.as_p }}<br>
-            <input class="button" type="submit" value="submit">
-        </form>
-    </div>
-    <div class="right-side" style="border: none;margin-top: 12%">
-        <div class="upper">
-            <input class="button" id="btn" type="submit" value="RUN">
-        </div>
-        <div class="bottom" style="width: 400px; border: 1px solid">
-            <h3 style=" margin-left: 162px;">Message:</h3>
-            <ul class="mylist">
-                {#                li#}
-            </ul>
-        </div>
-    </div>
+
+<div>
+    <form action="/scraper/text/" method="post">
+        {% csrf_token %}
+        <textarea name="text" id="" cols="30" rows="10"></textarea>
+        <input type="submit" value="Submit">
+    </form>
 </div>
+   
 <script>
 
-    $(document).ready(function () {
-        $('#btn').click(function () {
-            fetch('/scraper/counter/')
-                .then(response => response.json())
-                {#.then(dat)#}
-                .then(data => {
-                    let ul = document.querySelector('ul');
-                    for (x in data) {
-                        {#console.log(x,data[x])#}
-                        data[x].map(item => {
-                            console.log(x, item);
-                            let li = document.createElement('li');
-                            li.textContent = `${x}: ${item}`;
-                            ul.appendChild(li)
-                        });
-                        let li = document.createElement('li');
-                        li.innerHTML = "<b>Data scrapping finished</b><br>";
-                        ul.appendChild(li)
-                    }
-                })
-                .then(() => {
-                    const a = document.querySelector('.mylist').children;
-                    console.log(a.length)
-                })
-        });
-
-    });
-{#document.location = ''#}
-console.log(document)
+    
 </script>
 </body>
 </html>
