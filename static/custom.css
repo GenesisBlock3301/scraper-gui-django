@@ -14,7 +14,7 @@
     margin-right: 16%;
     /*border: 2px solid black;*/
     padding: 124px;
-    margin-left: 105em;
+    margin-left: 70em;
     height: 250px;
 }
 
@@ -50,14 +50,13 @@
 }
 
 .right-side {
-        /* margin-top: 17%; */
-    margin-right: 16%;
-    /* border: 2px solid black; */
+    /*margin-top: 17%;*/
+    /*border: 2px solid black;*/
     padding: 124px;
-    margin-left: 95em;
+    padding-right: 20em;
     height: 250px;
-}
 
+}
 
 
 .right-side .button {
@@ -80,18 +79,12 @@
 }
 
 .right-side h3 {
-    margin-left: 162px;
+
 }
 
-.bottom ul {
+ul {
     list-style-type: none;
     margin-top: 30px;
     text-align: center;
 }
-.bottom ul li{
-    width: 500px;
-    background-color: #5b80b2;
-}
-element.style {
-    display: none;
-}
+

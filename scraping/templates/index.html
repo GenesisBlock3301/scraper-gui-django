@@ -6,22 +6,57 @@
     <title>GUI</title>
     <link rel="stylesheet" href="{% static 'custom.css' %}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <style>
-    </style>
 </head>
 <body>
-
-<div>
-    <form action="/scraper/text/" method="post">
-        {% csrf_token %}
-        <textarea name="text" id="" cols="30" rows="10"></textarea>
-        <input type="submit" value="Submit">
-    </form>
+<div class="wrapper">
+    <div class="left-side" style="border: none;margin-top: 12%">
+        <form method="post">
+            {% csrf_token %}
+            <label for="">Search URL:</label>
+            {{ form.as_p }}<br>
+            <input class="button" type="submit" value="submit">
+        </form>
+    </div>
+    <div class="right-side" style="border: none;margin-top: 12%">
+        <div class="upper">
+            <input class="button" id="btn" type="submit" value="RUN">
+        </div>
+        <div class="bottom">
+            <h3>Message:</h3>
+            <ul class="mylist">
+                {#                li#}
+            </ul>
+        </div>
+    </div>
 </div>
-   
 <script>
 
-    
+    $(document).ready(function () {
+        $('#btn').click(function () {
+            fetch('http://127.0.0.1:9000/scraper/counter/')
+                .then(response => response.json())
+                .then(data => {
+
+                    for (x in data) {
+                        {#console.log(x,data[x])#}
+                        data[x].map(item => {
+                            console.log(x, item);
+                            ul = document.querySelector('ul');
+                            const li = document.createElement('li');
+                            li.textContent = `${x}: ${item}`;
+                            ul.appendChild(li)
+                        })
+                    }
+                })
+                .then(() => {
+                    const a = document.querySelector('.mylist').children;
+                    console.log(a.length)
+                })
+        });
+
+    });
+
+
 </script>
 </body>
 </html>

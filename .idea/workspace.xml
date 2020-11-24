@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13335e61-3043-4b67-896e-b76a15f512c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel-ReactJs-Custom-" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel-ReactJs-Custom-" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel-Vanila-Js" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel-Vanila-Js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data-Structure-and-Algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/../Data-Structure-and-Algorithm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoBestPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoBestPractice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoRest and React/django-react" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoRest and React/django-react" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoRest and React/react-extreme-mini-project" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoRest and React/react-extreme-mini-project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoRest and React/react-routing" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoRest and React/react-routing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangoRest and React/react_crash_course" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangoRest and React/react_crash_course" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Javascript-Basic-Project" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript-Basic-Project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../React-redux-django" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StoreRoom/intelsense.ai" beforeDir="false" afterPath="$PROJECT_DIR$/../StoreRoom/intelsense.ai" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../e-commerce" beforeDir="false" afterPath="$PROJECT_DIR$/../e-commerce" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../factory-pattern-python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nlp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../playing-with-javascript" beforeDir="false" afterPath="$PROJECT_DIR$/../playing-with-javascript" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux" beforeDir="false" afterPath="$PROJECT_DIR$/../redux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scraping/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/scraping/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scraping/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraping/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scraping/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraping/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop_management_system_api" beforeDir="false" afterPath="$PROJECT_DIR$/../shop_management_system_api" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping-cart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../slider1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../studentPortal" beforeDir="false" afterPath="$PROJECT_DIR$/../studentPortal" afterDir="false" />
+    <list default="true" id="76298f69-9c46-46c7-b81a-e3e43d884ef5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Web_craperGUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_craperGUI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_craperGUI/Web_craperGUI/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_craperGUI/Web_craperGUI/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_craperGUI/Web_craperGUI/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_craperGUI/Web_craperGUI/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_craperGUI/Web_craperGUI/wsgi.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,16 +15,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/scraper_gui_django$test.coverage" NAME="test Coverage Results" MODIFIED="1605876738531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scraping/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scraping/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+            <state relative-caret-position="340">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -52,118 +48,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraping/tests.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/webscraper/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2074">
+              <caret line="122" column="19" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraping/admin.py">
+        <entry file="file://$PROJECT_DIR$/webscraper/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="323">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
               <folding>
-                <element signature="e#0#32#0" expanded="true" />
+                <element signature="e#634#666#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraping/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraping/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraping/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraping/templates/GUI.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="82" column="3" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraping/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webscraper/settings.py" />
         <option value="$PROJECT_DIR$/webscraper/urls.py" />
-        <option value="$PROJECT_DIR$/scraping/forms.py" />
+        <option value="$PROJECT_DIR$/webscraper/settings.py" />
         <option value="$PROJECT_DIR$/static/custom.css" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/scraping/models.py" />
-        <option value="$PROJECT_DIR$/scraping/admin.py" />
-        <option value="$PROJECT_DIR$/scraping/templates/GUI.html" />
-        <option value="$PROJECT_DIR$/scraping/urls.py" />
         <option value="$PROJECT_DIR$/scraping/templates/index.html" />
-        <option value="$PROJECT_DIR$/scraping/views.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="911" />
+    <option name="x" value="618" />
     <option name="y" value="1" />
-    <option name="width" value="448" />
+    <option name="width" value="741" />
     <option name="height" value="752" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -172,38 +95,46 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="scraper-gui-django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scraper-gui-django" type="462c0819:PsiDirectoryNode" />
+              <item name="webscraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webscraper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="scraper-gui-django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scraper-gui-django" type="462c0819:PsiDirectoryNode" />
+              <item name="webscraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webscraper" type="462c0819:PsiDirectoryNode" />
               <item name="scraping" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="scraper-gui-django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scraper-gui-django" type="462c0819:PsiDirectoryNode" />
+              <item name="webscraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webscraper" type="462c0819:PsiDirectoryNode" />
               <item name="scraping" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="scraper-gui-django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scraper-gui-django" type="462c0819:PsiDirectoryNode" />
+              <item name="webscraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webscraper" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webscraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webscraper" type="462c0819:PsiDirectoryNode" />
+              <item name="webscraper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webscraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -227,29 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="webscraper" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="webscraper" type="Python.DjangoServer" factoryName="Django server">
       <module name="webscraper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,18 +182,13 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.test" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="13335e61-3043-4b67-896e-b76a15f512c2" name="Default Changelist" comment="" />
+      <changelist id="76298f69-9c46-46c7-b81a-e3e43d884ef5" name="Default Changelist" comment="" />
       <created>1605014206370</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -292,29 +196,21 @@
       <workItem from="1605014207633" duration="2565000" />
       <workItem from="1605018403392" duration="3027000" />
       <workItem from="1605070099613" duration="597000" />
-      <workItem from="1605239438108" duration="3478000" />
-      <workItem from="1605278850229" duration="1285000" />
-      <workItem from="1605618991903" duration="1316000" />
-      <workItem from="1605626492468" duration="3530000" />
-      <workItem from="1605871833353" duration="2488000" />
-      <workItem from="1605880280514" duration="6071000" />
-      <workItem from="1605889469129" duration="2914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29387000" />
+    <option name="totallyTimeSpent" value="6189000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="618" y="1" width="741" height="752" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1482602" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12481645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -323,7 +219,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33224222" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.19063005" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -339,6 +235,30 @@
     <entry file="file://$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraping/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/webscraper/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2074">
@@ -348,88 +268,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webscraper/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="323">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
           <folding>
             <element signature="e#634#666#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraping/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="136" selection-start-line="4" selection-start-column="136" selection-end-line="4" selection-end-column="136" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraping/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraping/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraping/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="82" column="3" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraping/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraping/templates/GUI.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraping/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraping/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraping/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>

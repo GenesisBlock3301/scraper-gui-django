@@ -1,0 +1,71 @@
+{% extends "Trust_GUI.html" %}
+{% load static %}
+
+{% block action %}
+<button class="btn btn-info my-2 my-sm-0 mr-2" type="submit" id="btn">Run</button>
+        <form class="form-inline my-2 my-lg-0" method="post" action="/scraper/facebook_search/">
+            {% csrf_token %}
+            <input class="form-control mr-sm-2" type="text" name="url" placeholder="Enter URL" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0 mr-2" type="submit">Add URL</button>
+        </form>
+        <form method="post" action="/scraper/facebook_clear/">
+            {% csrf_token %}
+            <button class="btn btn-danger my-2 my-sm-0" type="submit">Clear All URL</button>
+        </form>
+{% endblock action %}
+
+{% block content %}
+<div class="container">
+ {% if status %}
+        <h3>Please enter unique Url</h3>
+        {% endif %}
+<h4>Facebook scraper</h4>
+{% comment %} <h3>Wait few moments scrapping is under working</h3> {% endcomment %}
+    <ul class="list-group " id="mylist">
+
+    </ul>
+</div>
+{% endblock content %}
+
+{% block js %}
+<script>
+
+    $(document).ready(function () {
+        $('#btn').click(function () {
+            fetch('/scraper/facebook_counter/')
+                .then(response => response.json())
+               // {#.then(dat)#}
+                .then(data => {
+                    let ul = document.querySelector('#mylist');
+                    for (let x in data) {
+                   //     {#console.log(x,data[x])#}
+                        data[x].map(item => {
+                     //       console.log(x, item);
+                            let li = document.createElement('li');
+                            li.setAttribute('class',"list-group-item");
+                            li.textContent = `${x}: ${item}`;
+                            ul.appendChild(li)
+                            //temp = `${x//
+
+                        });
+                        let li = document.createElement('li');
+                        li.setAttribute('class',"list-group-item");
+                        li.innerHTML = `<b>Data scrapping finished:${x} </b><br>`;
+                        ul.appendChild(li)
+                    }
+                })
+                .then(() => {
+                    const a = document.querySelector('#mylist').children;
+                    console.log(a.length)
+                })
+        });
+
+    });
+   // {#document.location = ''#}
+    console.log(document)
+     if ( window.history.replaceState ) {
+        window.history.replaceState( null, null, window.location.href );
+    }
+</script>
+{% endblock js %}
+
